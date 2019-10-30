@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  background: rgb(228, 228, 228);
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+h4{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+a {
+  color: #00B7FF;
+}
+
+#wrapper{
+  background-color: #fff;
+  padding: 30px;
+}
+#userInfo{
+  background-color: rgba(226, 224, 224, 0.753);
+  padding: 10px;
+}
+
+input [type = text]{
+  border: none;
+}
